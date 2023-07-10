@@ -1,4 +1,3 @@
-![Velinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Velinu&theme=radical&show_icons=true)
 
 ## Tecnologias que eu utilizo
 
